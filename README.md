@@ -7,4 +7,4 @@ src folder contains all componients of the processor.
 
 The processor was implemented on a FPGA, with basys3_wrapper.sv and seg_display.sv
 
-The repo might be moved if requested by uci instructors.
+The repo might be removed if requested by uci instructors.
